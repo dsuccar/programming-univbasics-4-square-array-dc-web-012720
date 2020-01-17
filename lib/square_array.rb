@@ -7,5 +7,5 @@ array2 =[]
      puts array[counter] ** 2 >> array2
       counter += 1
 end
-return array2
+ array2
 end
